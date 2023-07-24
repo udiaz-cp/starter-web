@@ -20,4 +20,4 @@ Please fork this repo
 
 ###Copyright
 
-2023 Git.Training.
+PARAMNESIA. All right reserved
